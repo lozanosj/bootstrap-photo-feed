@@ -64,3 +64,8 @@ body{
     height: auto;
 }
 
+.botones{
+    display: flex;
+    justify-content: center;
+}
+
